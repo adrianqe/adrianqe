@@ -2,25 +2,24 @@
 
 ### 👨‍💻 Acerca de Mí
 
-¡Hola! Soy Adrián, un desarrollador apasionado por la Inteligencia artificial, ciberseguridad y la programación.
-Me estoy certificando como Ing en Inteligencia artificial en AceleradoraIA. Me encanta aprender y compartir conocimientos con la comunidad.
+¡Hola! Soy Adrián, un desarrollador apasionado por la Inteligencia artificial  y la programación.
+Me encanta aprender y compartir conocimientos con la comunidad.
 
-- 🌱 Actualmente estoy aprendiendo: Aplicaciones LLM
+- 🌱 Actualmente estoy aprendiendo: Aplicaciones LLM en [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
 - 💼 Estudiante
 - 🎓 Educación: Ing. Sistemas de Información - Ulatina
 - 📫 Contáctame en: ajquirose05@gmail.com
 
 ### 🛠️ Lenguajes y Herramientas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ### 📊 Estadísticas de GitHub
 
@@ -29,7 +28,7 @@ Me estoy certificando como Ing en Inteligencia artificial en AceleradoraIA. Me e
 
 ### 🤝 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adrian-quiros-elizondo-639906300)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](www.linkedin.com/in/adrian-quiros-elizondo-639906300)
 
 <!---
 adrianqe/adrianqe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
