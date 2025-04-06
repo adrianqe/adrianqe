@@ -1,4 +1,4 @@
-## 🌟 ¡Hi! I'm Adrián
+## 🌟 Hi, I'm Adrián
 
 I am a systems engineer passionate about artificial intelligence and programming.
 
