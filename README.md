@@ -24,6 +24,9 @@ I am a systems engineer passionate about artificial intelligence and programming
 ### 🤝 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](www.linkedin.com/in/adrian-quiros-elizondo-639906300)
 
+📧 **Email:** ajquirose05@gmail.com  
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://adrianqe.github.io/portfolio/)
 <!---
 adrianqe/adrianqe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
