@@ -2,8 +2,8 @@
 
 I am a systems engineer passionate about artificial intelligence and programming.
 
-- 💼 Estudiante
-- 🎓 Educación: Ing. Sistemas de Información - Ulatina
+- 💼 Student
+- 🎓 Education: Information Systems Engineering - Ulatina
 
 ### 🛠️ Languages and Tools
 
