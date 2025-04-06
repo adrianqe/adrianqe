@@ -1,16 +1,11 @@
-## 🌟 ¡Hola! Soy Adrián
+## 🌟 ¡Hi! I'm Adrián
 
-### 👨‍💻 Acerca de Mí
+I am a systems engineer passionate about artificial intelligence and programming.
 
-¡Hola! Soy Adrián, un desarrollador apasionado por la Inteligencia artificial  y la programación.
-Me encanta aprender y compartir conocimientos con la comunidad.
-
-- 🌱 Actualmente estoy aprendiendo: Aplicaciones LLM en [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
 - 💼 Estudiante
 - 🎓 Educación: Ing. Sistemas de Información - Ulatina
-- 📫 Contáctame en: ajquirose05@gmail.com
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Languages and Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -21,13 +16,12 @@ Me encanta aprender y compartir conocimientos con la comunidad.
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adrianqe&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianqe&layout=compact&theme=radical)
 
-### 🤝 Contacto
-
+### 🤝 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](www.linkedin.com/in/adrian-quiros-elizondo-639906300)
 
 <!---
