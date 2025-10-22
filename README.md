@@ -2,7 +2,7 @@
 
 I'm apassionate about artificial intelligence and programming.
 
-- 💼 Automation Developer [@Emerson](https://www.emerson.com/global)
+- 💼 Automation Developer
 - 🎓 Education: Information Systems Engineering - Ulatina
 
 ### 🛠️ Languages and Tools
