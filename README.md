@@ -1,8 +1,8 @@
 ## 🌟 Hi, I'm Adrián
 
-I am a systems engineer passionate about artificial intelligence and programming.
+I'm apassionate about artificial intelligence and programming.
 
-- 💼 Student
+- 💼 Automation Developer [@Emerson](https://www.emerson.com/global)
 - 🎓 Education: Information Systems Engineering - Ulatina
 
 ### 🛠️ Languages and Tools
